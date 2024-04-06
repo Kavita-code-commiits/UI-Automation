@@ -6,7 +6,7 @@ public class GitCode1 {
 	String g="hello form another mother";
 	Boolean false;
 	int y=0;
-	while(i=0){}
-	test for loop
-	
+	for() by me
 }
+	while(i=0){}
+from remote main
