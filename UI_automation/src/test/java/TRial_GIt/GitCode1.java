@@ -6,5 +6,6 @@ public class GitCode1 {
 	String g="hello form another mother";
 	Boolean false;
 	int y=0;
+	while(i=0){}
 	
 }
