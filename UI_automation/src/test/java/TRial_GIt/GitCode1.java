@@ -5,6 +5,6 @@ public class GitCode1 {
 	int x=0;
 	String g="hello form another mother";
 	Boolean false;
-	
+	int y=0;
 	
 }
